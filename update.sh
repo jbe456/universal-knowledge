@@ -1,0 +1,1 @@
+./node_modules/.bin/mmdc -c mermaid-config.json -i diagram.md -o diagram.svg
