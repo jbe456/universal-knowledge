@@ -41,10 +41,40 @@
 
 ## Physics
 
-- [Black hole cosmology](https://en.m.wikipedia.org/wiki/Black_hole_cosmology)
+### Electricity
+
+- [Capacitance](https://en.wikipedia.org/wiki/Capacitance)
+- [Three-phase electricity power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
+- [High-voltage direct current](https://en.wikipedia.org/wiki/High-voltage_direct_current)
+- [Skin effect](https://en.wikipedia.org/wiki/Skin_effect)
+
+### General theory of relativity
+
+- [Wormhole](https://en.m.wikipedia.org/wiki/Wormhole)
+- [Minkowski space](https://en.wikipedia.org/wiki/Minkowski_space)
+- Universe model
+  - [Black hole cosmology](https://en.m.wikipedia.org/wiki/Black_hole_cosmology)
+  - [Randall–Sundrum model](https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model)
+  - [DGP model](https://en.wikipedia.org/wiki/DGP_model)
+- [Tachyonic antitelephone](https://en.wikipedia.org/wiki/Tachyonic_antitelephone)
+- [Alcubierre drive](https://en.wikipedia.org/wiki/Alcubierre_drive)
+
+### Quantum field theory
+
+- [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect)
+
+### Others
+
+- [String theory](https://en.wikipedia.org/wiki/String_theory)
+- [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
+- [Exotic matter](https://en.wikipedia.org/wiki/Exotic_matter)
+  - [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
+  - [Negative mass](https://en.wikipedia.org/wiki/Negative_mass)
 
 ## History
 
+- Religion
+  - [Creationism](https://en.wikipedia.org/wiki/Creationism)
 - Epidemics
   - [Antonine Plague](https://en.wikipedia.org/wiki/Antonine_Plague) 5-10 million Roman Empire, 165-180 AD
   - [Plague of Justinian](https://en.wikipedia.org/wiki/Plague_of_Justinian) Byzantine Empire, 541-542 AD, 40-50% Europe population
@@ -52,8 +82,10 @@
   - [Great Plague of Marseille](https://en.wikipedia.org/wiki/Great_Plague_of_Marseille) Bubonic plague, France 1720
   - [Spanish flu](https://en.wikipedia.org/wiki/Spanish_flu) 1918, 17-50 million Worldwide
   - [2009 flu pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic) Swine flu, 150-575k Worldwide
-- Doctor
+- Famous people
   - [Ignas Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) 1847 - Handwashing before giving birth
+  - [Hannie Schaft](https://en.wikipedia.org/wiki/Hannie_Schaft) WW2 women resistance fighter
+- [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar)
 
 ## Biology
 
@@ -76,6 +108,20 @@
 ## Computer Science
 
 - [Hyper threading](https://en.wikipedia.org/wiki/Hyper-threading)
+- [Ant colony optimization algorithms](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+- Neural network
+  - [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
+  - [Gated recurrent unit](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+- [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+- [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+- [Dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
+- [HyperLogLog](https://en.wikipedia.org/wiki/HyperLogLog)
+- NLP
+  - [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+  - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
+  - [fastText](https://en.wikipedia.org/wiki/FastText)
+  - [GloVe](<https://en.wikipedia.org/wiki/GloVe_(machine_learning)>)
+  - [BERT](<https://en.wikipedia.org/wiki/BERT_(language_model)>)
 
 ## Finance
 
