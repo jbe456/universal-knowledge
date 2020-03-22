@@ -70,6 +70,9 @@
 - [Exotic matter](https://en.wikipedia.org/wiki/Exotic_matter)
   - [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
   - [Negative mass](https://en.wikipedia.org/wiki/Negative_mass)
+- Primary colors
+  - additive: RGB
+  - substractive: CMY
 
 ## History
 
