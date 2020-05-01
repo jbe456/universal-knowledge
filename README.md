@@ -26,12 +26,24 @@
 
 - [Multinomial coefficients](https://en.wikipedia.org/wiki/Multinomial_theorem#Multinomial_coefficients)
 - [Multinomial theorem](https://en.wikipedia.org/wiki/Multinomial_theorem)
-- [Sum of natural numbers - Triangular number](https://en.wikipedia.org/wiki/Triangular_number)
-- [Sum of square - Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
-- [Sum of cubes - Squared Triangular number](https://en.wikipedia.org/wiki/Squared_triangular_number)
-- [Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 - [Mersenne Prime](https://en.wikipedia.org/wiki/Mersenne_prime)
 - [Bernouilli number](https://en.wikipedia.org/wiki/Bernoulli_number)
+- [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+- [Weierstrass factorization theorem](https://en.wikipedia.org/wiki/Weierstrass_factorization_theorem)
+- conjecture
+  - [Goldbach conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
+  - [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+- sum
+  - [Sum of natural numbers - Triangular number](https://en.wikipedia.org/wiki/Triangular_number)
+  - [Sum of square - Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
+  - [Sum of cubes - Squared Triangular number](https://en.wikipedia.org/wiki/Squared_triangular_number)
+  - [Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
+- series
+  - [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+  - [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series)
+- summation
+  - [Cesaro summation](https://en.wikipedia.org/wiki/Ces%C3%A0ro_summation)
+  - [Abel summation](https://en.wikipedia.org/wiki/Divergent_series#Abel_summation)
 - [Cauchy-Schwartz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality) ![|\langle u,v \rangle|^{2}\leq \langle u,u \rangle \cdot  \langle v,v \rangle](https://render.githubusercontent.com/render/math?math=%7C%5Clangle%20u%2Cv%20%5Crangle%7C%5E%7B2%7D%5Cleq%20%5Clangle%20u%2Cu%20%5Crangle%20%5Ccdot%20%20%5Clangle%20v%2Cv%20%5Crangle)
 - [Pythagorean means](https://en.wikipedia.org/wiki/Pythagorean_means)
   - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean)
