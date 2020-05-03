@@ -24,8 +24,8 @@
 
 ### Others
 
-- [Multinomial coefficients](https://en.wikipedia.org/wiki/Multinomial_theorem#Multinomial_coefficients)
-- [Multinomial theorem](https://en.wikipedia.org/wiki/Multinomial_theorem)
+- [Multinomial coefficients](https://en.wikipedia.org/wiki/Multinomial_theorem#Multinomial_coefficients) ![{\displaystyle {n \choose {k_{1},k_{2},\ldots ,k_{m}}}={\frac {n!}{k_{1}!,k_{2}!\cdots k_{m}!}}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%7Bn%20%5Cchoose%20%7Bk_%7B1%7D%2Ck_%7B2%7D%2C%5Cldots%20%2Ck_%7Bm%7D%7D%7D%3D%7B%5Cfrac%20%7Bn!%7D%7Bk_%7B1%7D!%5C%2Ck_%7B2%7D!%5Ccdots%20k_%7Bm%7D!%7D%7D%7D)
+- [Multinomial theorem](https://en.wikipedia.org/wiki/Multinomial_theorem) ![{\displaystyle \sum _{k_{1}+k_{2}+\cdots +k_{m}=n}{n \choose {k_{1},k_{2},\ldots ,k_{m}}}x_{1}^{k_{1}}x_{2}^{k_{2}}\cdots x_{m}^{k_{m}}=(x_{1}+x_{2}+\cdots +x_{m})^{n}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csum%20_%7Bk_%7B1%7D%2Bk_%7B2%7D%2B%5Ccdots%20%2Bk_%7Bm%7D%3Dn%7D%7Bn%20%5Cchoose%20%7Bk_%7B1%7D%2Ck_%7B2%7D%2C%5Cldots%20%2Ck_%7Bm%7D%7D%7Dx_%7B1%7D%5E%7Bk_%7B1%7D%7Dx_%7B2%7D%5E%7Bk_%7B2%7D%7D%5Ccdots%20x_%7Bm%7D%5E%7Bk_%7Bm%7D%7D%3D(x_%7B1%7D%2Bx_%7B2%7D%2B%5Ccdots%20%2Bx_%7Bm%7D)%5E%7Bn%7D%7D>)
 - [Mersenne Prime](https://en.wikipedia.org/wiki/Mersenne_prime)
 - [Bernouilli number](https://en.wikipedia.org/wiki/Bernoulli_number)
 - [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
@@ -34,9 +34,9 @@
   - [Goldbach conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture)
   - [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
 - sum
-  - [Sum of natural numbers - Triangular number](https://en.wikipedia.org/wiki/Triangular_number)
-  - [Sum of square - Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number)
-  - [Sum of cubes - Squared Triangular number](https://en.wikipedia.org/wiki/Squared_triangular_number)
+  - [Sum of natural numbers - Triangular number](https://en.wikipedia.org/wiki/Triangular_number) ![{\displaystyle \sum_{k=1}^n k = \frac{n(n+1)}{2}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csum_%7Bk%3D1%7D%5En%20k%20%3D%20%5Cfrac%7Bn(n%2B1)%7D%7B2%7D%7D>)
+  - [Sum of square - Square pyramidal number](https://en.wikipedia.org/wiki/Square_pyramidal_number) ![{\displaystyle \sum_{k=1}^n k^{2} = \frac{n(n+1)(2n+1)}{6}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csum_%7Bk%3D1%7D%5En%20k%5E%7B2%7D%20%3D%20%5Cfrac%7Bn(n%2B1)(2n%2B1)%7D%7B6%7D%7D>)
+  - [Sum of cubes - Squared Triangular number](https://en.wikipedia.org/wiki/Squared_triangular_number) ![{\displaystyle \sum _{k=1}^{n}k^{3}={\bigg (}\sum _{k=1}^{n}k{\bigg )}^{2}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csum%20_%7Bk%3D1%7D%5E%7Bn%7Dk%5E%7B3%7D%3D%7B%5Cbigg%20(%7D%5Csum%20_%7Bk%3D1%7D%5E%7Bn%7Dk%7B%5Cbigg%20)%7D%5E%7B2%7D%7D>)
   - [Faulhaber's formula](https://en.wikipedia.org/wiki/Faulhaber%27s_formula)
 - series
   - [Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
@@ -46,9 +46,9 @@
   - [Abel summation](https://en.wikipedia.org/wiki/Divergent_series#Abel_summation)
 - [Cauchy-Schwartz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality) ![|\langle u,v \rangle|^{2}\leq \langle u,u \rangle \cdot  \langle v,v \rangle](https://render.githubusercontent.com/render/math?math=%7C%5Clangle%20u%2Cv%20%5Crangle%7C%5E%7B2%7D%5Cleq%20%5Clangle%20u%2Cu%20%5Crangle%20%5Ccdot%20%20%5Clangle%20v%2Cv%20%5Crangle)
 - [Pythagorean means](https://en.wikipedia.org/wiki/Pythagorean_means)
-  - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean)
-  - [Harmonic mean](https://en.wikipedia.org/wiki/Harmonic_mean)
-  - [Geometric mean](https://en.wikipedia.org/wiki/Geometric_mean)
+  - [Arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean) ![{\displaystyle \frac{1}{n}\sum_{i=1}^n x_{i}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5En%20x_%7Bi%7D%7D)
+  - [Harmonic mean](https://en.wikipedia.org/wiki/Harmonic_mean) ![{\displaystyle \bigg (\frac{1}{n}\sum_{i=1}^n x_{i}^{-1}\bigg )^{-1}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cbigg%20(%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5En%20x_%7Bi%7D%5E%7B-1%7D%5Cbigg%20)%5E%7B-1%7D%7D>)
+  - [Geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) ![{\displaystyle \sqrt[n]{\prod_{i=1}^n x_{i}}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csqrt%5Bn%5D%7B%5Cprod_%7Bi%3D1%7D%5En%20x_%7Bi%7D%7D%7D)
 - [Stirling approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
 ## Physics
@@ -75,6 +75,22 @@
 
 - [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect)
 
+### Electromagnetism
+
+- [Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+  - [Gauss's law](https://en.wikipedia.org/wiki/Gauss%27s_law)
+    - ![{\displaystyle \mathbf {E} \cdot \mathrm {d} \mathbf {S} ={\frac {1}{\varepsilon _{0}}}\iiint _{\Omega }\rho ,\mathrm {d} V}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cmathbf%20%7BE%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%5Cmathbf%20%7BS%7D%20%3D%7B%5Cfrac%20%7B1%7D%7B%5Cvarepsilon%20_%7B0%7D%7D%7D%5Ciiint%20_%7B%5COmega%20%7D%5Crho%20%5C%2C%5Cmathrm%20%7Bd%7D%20V%7D)
+    - ![{\displaystyle \nabla \cdot \mathbf {E} ={\frac {\rho }{\varepsilon _{0}}}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cnabla%20%5Ccdot%20%5Cmathbf%20%7BE%7D%20%3D%7B%5Cfrac%20%7B%5Crho%20%7D%7B%5Cvarepsilon%20_%7B0%7D%7D%7D%7D)
+  - [Gauss's law for magnetism](https://en.wikipedia.org/wiki/Gauss%27s_law_for_magnetism)
+    - ![{\displaystyle \mathbf {B} \cdot \mathrm {d} \mathbf {S} =0}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cmathbf%20%7BB%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%5Cmathbf%20%7BS%7D%20%3D0%7D)
+    - ![{\displaystyle \nabla \cdot \mathbf {B} =0}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cnabla%20%5Ccdot%20%5Cmathbf%20%7BB%7D%20%3D0%7D)
+  - [Faraday's law of induction](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction)
+    - ![{\displaystyle \oint _{\partial \Sigma }\mathbf {E} \cdot \mathrm {d} {\boldsymbol {l}}=-{\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} }](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Coint%20_%7B%5Cpartial%20%5CSigma%20%7D%5Cmathbf%20%7BE%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%7B%5Cboldsymbol%20%7Bl%7D%7D%3D-%7B%5Cfrac%20%7B%5Cmathrm%20%7Bd%7D%20%7D%7B%5Cmathrm%20%7Bd%7D%20t%7D%7D%5Ciint%20_%7B%5CSigma%20%7D%5Cmathbf%20%7BB%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%5Cmathbf%20%7BS%7D%20%7D)
+    - ![{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cnabla%20%5Ctimes%20%5Cmathbf%20%7BE%7D%20%3D-%7B%5Cfrac%20%7B%5Cpartial%20%5Cmathbf%20%7BB%7D%20%7D%7B%5Cpartial%20t%7D%7D%7D)
+  - [Ampère's circuital law](https://en.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law)
+    - ![{\displaystyle {\begin{aligned}\oint _{\partial \Sigma }&\mathbf {B} \cdot \mathrm {d} {\boldsymbol {l}}=\mu _{0}\left(\iint _{\Sigma }\mathbf {J} \cdot \mathrm {d} \mathbf {S} +\varepsilon _{0}{\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {E} \cdot \mathrm {d} \mathbf {S} \right)\end{aligned}}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%7B%5Cbegin%7Baligned%7D%5Coint%20_%7B%5Cpartial%20%5CSigma%20%7D%26%5Cmathbf%20%7BB%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%7B%5Cboldsymbol%20%7Bl%7D%7D%3D%5Cmu%20_%7B0%7D%5Cleft(%5Ciint%20_%7B%5CSigma%20%7D%5Cmathbf%20%7BJ%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%5Cmathbf%20%7BS%7D%20%2B%5Cvarepsilon%20_%7B0%7D%7B%5Cfrac%20%7B%5Cmathrm%20%7Bd%7D%20%7D%7B%5Cmathrm%20%7Bd%7D%20t%7D%7D%5Ciint%20_%7B%5CSigma%20%7D%5Cmathbf%20%7BE%7D%20%5Ccdot%20%5Cmathrm%20%7Bd%7D%20%5Cmathbf%20%7BS%7D%20%5Cright)%5C%5C%5Cend%7Baligned%7D%7D%7D>)
+    - ![{\displaystyle \nabla \times \mathbf {B} =\mu _{0}\left(\mathbf {J} +\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cnabla%20%5Ctimes%20%5Cmathbf%20%7BB%7D%20%3D%5Cmu%20_%7B0%7D%5Cleft(%5Cmathbf%20%7BJ%7D%20%2B%5Cvarepsilon%20_%7B0%7D%7B%5Cfrac%20%7B%5Cpartial%20%5Cmathbf%20%7BE%7D%20%7D%7B%5Cpartial%20t%7D%7D%5Cright)%7D>)
+
 ### Others
 
 - [String theory](https://en.wikipedia.org/wiki/String_theory)
@@ -85,6 +101,21 @@
 - Primary colors
   - additive: RGB
   - substractive: CMY
+- Frequency
+  - Audible: 20Hz - 20kHz
+  - Microwave oven: 2.45GHz
+  - Wifi: 802.11 standard allows: 900 MHz, 2.4 GHz, 3.6 GHz, 4.9 GHz, 5 GHz, 5.9 GHz and 60 GHz
+  - Visible light: 400THz - 789 THz (380nm - 750nm)
+- Power
+  - Incandescent lightbulb: ~60W
+  - Oven: ~2.4kW
+  - Car engine: ~112kW (150hp)
+  - Wind turbine: ~2.5MW
+  - Train engine: ~4.5MW (6000hp)
+  - Nuclear plant: ~1GW
+- Units
+  - T(K) = T(°C) + 273.15
+  - 1 mechanical horspower = 745.7 Watt
 
 ## History
 
