@@ -117,6 +117,10 @@
   - T(K) = T(°C) + 273.15
   - 1 mechanical horspower = 745.7 Watt
 
+## Chemistry
+
+- [Manganese heptoxide](https://en.wikipedia.org/wiki/Manganese_heptoxide)
+
 ## History
 
 - Religion
@@ -137,6 +141,9 @@
 
 - [Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
   - [Cholophyll](https://en.wikipedia.org/wiki/Chlorophyll)
+- Classification
+  - [Invertebrate](https://en.wikipedia.org/wiki/Invertebrate): insects, arachnids, molluscs, crustaceans, corals, velvet worms, horseshoe crabs, others (jellyfish, echniderms, sponges etc)
+  - [Arthropod](https://en.wikipedia.org/wiki/Arthropod): an invertebrate animal having an exoskeleton, a segmented body, and paired jointed appendages.
 - Disease
   - [Influenza / Grippe](https://en.wikipedia.org/wiki/Influenza)
   - [Swine influenza / Grippe porcine](https://en.wikipedia.org/wiki/Swine_influenza)
