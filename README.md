@@ -1,5 +1,22 @@
 # Universal knowledge
 
+- [Mathematics](#mathematics)
+  - [Statistics](#statistics)
+  - [Probability](#probability)
+  - [Others](#others)
+- [Physics](#physics)
+  - [Electricity](#electricity)
+  - [General theory of relativity](#general-theory-of-relativity)
+  - [Quantum field theory](#quantum-field-theory)
+  - [Electromagnetism](#electromagnetism)
+  - [Others](#others)
+- [Chemistry](#chemistry)
+- [History](#history)
+- [Biology](#biology)
+- [Computer Science](#computer-science)
+- [Finance](#finance)
+- [Others](#others)
+
 ## Mathematics
 
 ### Statistics
@@ -175,6 +192,7 @@
   - [fastText](https://en.wikipedia.org/wiki/FastText)
   - [GloVe](<https://en.wikipedia.org/wiki/GloVe_(machine_learning)>)
   - [BERT](<https://en.wikipedia.org/wiki/BERT_(language_model)>)
+- Machine Learning [cheat sheet](./cheatsheet-ml-stanford.pdf)
 
 ## Finance
 
