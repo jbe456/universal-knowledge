@@ -87,10 +87,13 @@
   - [DGP model](https://en.wikipedia.org/wiki/DGP_model)
 - [Tachyonic antitelephone](https://en.wikipedia.org/wiki/Tachyonic_antitelephone)
 - [Alcubierre drive](https://en.wikipedia.org/wiki/Alcubierre_drive)
+- [Hawking radiation](https://en.wikipedia.org/wiki/Hawking_radiation)
+- [Black hole information paradox](https://en.wikipedia.org/wiki/Black_hole_information_paradox)
 
-### Quantum field theory
+### Quantum mechanics
 
 - [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect)
+- [Heisenberg's Uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle)
 
 ### Electromagnetism
 
@@ -153,6 +156,8 @@
   - [Ignas Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) 1847 - Handwashing before giving birth
   - [Hannie Schaft](https://en.wikipedia.org/wiki/Hannie_Schaft) WW2 women resistance fighter
 - [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar)
+- [Augur](https://en.wikipedia.org/wiki/Augur)
+  - [Ornithomancie/Auspice](https://en.wikipedia.org/wiki/Ornithomancy)
 
 ## Biology
 
@@ -193,6 +198,7 @@
   - [GloVe](<https://en.wikipedia.org/wiki/GloVe_(machine_learning)>)
   - [BERT](<https://en.wikipedia.org/wiki/BERT_(language_model)>)
 - Machine Learning [cheat sheet](./cheatsheet-ml-stanford.pdf)
+- Data Science [cheat sheet](./ds-cheatsheet.pdf)
 
 ## Finance
 
@@ -202,6 +208,7 @@
 ## Others
 
 - [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+- [Jevon's paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 - [Long and short scales](https://en.wikipedia.org/wiki/Long_and_short_scales)
 
 # Notes
