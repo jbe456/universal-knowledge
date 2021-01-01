@@ -67,6 +67,11 @@
   - [Harmonic mean](https://en.wikipedia.org/wiki/Harmonic_mean) ![{\displaystyle \bigg (\frac{1}{n}\sum_{i=1}^n x_{i}^{-1}\bigg )^{-1}}](<https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Cbigg%20(%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D1%7D%5En%20x_%7Bi%7D%5E%7B-1%7D%5Cbigg%20)%5E%7B-1%7D%7D>)
   - [Geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) ![{\displaystyle \sqrt[n]{\prod_{i=1}^n x_{i}}}](https://render.githubusercontent.com/render/math?math=%7B%5Cdisplaystyle%20%5Csqrt%5Bn%5D%7B%5Cprod_%7Bi%3D1%7D%5En%20x_%7Bi%7D%7D%7D)
 - [Stirling approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+- [Dialetheism](https://en.wikipedia.org/wiki/Dialetheism)
+  - [Russel paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+  - [Liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
+- [Braess paradox](https://brilliant.org/wiki/braess-paradox/)
+- [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
 
 ## Physics
 
