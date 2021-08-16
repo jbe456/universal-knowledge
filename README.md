@@ -163,6 +163,15 @@
 - [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar)
 - [Augur](https://en.wikipedia.org/wiki/Augur)
   - [Ornithomancie/Auspice](https://en.wikipedia.org/wiki/Ornithomancy)
+- France History
+  - [Francs](https://fr.wikipedia.org/wiki/Francs)
+    - [Mérovingiens](https://fr.wikipedia.org/wiki/M%C3%A9rovingiens) (5th - 8th century)
+      - [Clovis 1er](https://fr.wikipedia.org/wiki/Clovis_Ier)
+    - [Carolingiens](https://fr.wikipedia.org/wiki/Carolingiens) (751-987)
+      - [Charles Martel](https://fr.wikipedia.org/wiki/Charles_Martel)
+      - [Pepin le Bref](https://fr.wikipedia.org/wiki/P%C3%A9pin_le_Bref)
+      - [Charlemagne](https://fr.wikipedia.org/wiki/Charlemagne)
+    - [Capétiens](https://fr.wikipedia.org/wiki/Cap%C3%A9tiens)
 
 ## Biology
 
@@ -195,6 +204,7 @@
     - [Cenozoic](https://en.wikipedia.org/wiki/Cenozoic)
     - [Quaternary](https://en.wikipedia.org/wiki/Quaternary)
 - [Milankovitch cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles)
+- [Petrichor](https://en.wikipedia.org/wiki/Petrichor)
 
 ## Computer Science
 
