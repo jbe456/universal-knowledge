@@ -236,6 +236,7 @@
 - [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 - [Jevon's paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 - [Long and short scales](https://en.wikipedia.org/wiki/Long_and_short_scales)
+- [Ecological fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
 
 # Notes
 
